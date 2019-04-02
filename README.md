@@ -17,11 +17,11 @@
 
 <h3> WHAT'S INCLUDED</h3>
 <li>within the download you'll find the following files:</li>
-						<li>-media.py</li>
-						<li>-entertainment_center.py</li>
-						<li>-fresh_tomatoes.py</li>
-						<li>-README.txt  </li>
-						<li>-webpages folder(contains all the website related files.)</li>
+<li>media.py</li>
+<li>entertainment_center.py</li>
+<li>fresh_tomatoes.py</li>
+<li>README.txt  </li>
+<li>webpages folder(contains all the website related files.)</li>
 				
 <h3>DOCUMENTATION</h3>
 
@@ -33,8 +33,8 @@ The docs may also be run locally.
 Have a bug or a feature request? Please open an issue at github.com/AyswaryaS95
 
 <h3>CREATOR</h3>
-<li>-Ayswarya</li> 
-<li>-github.com/AyswaryaS95</li>
+<li>Ayswarya</li> 
+<li>github.com/AyswaryaS95</li>
 
 <h5>NOTE: Please read the readme.txt file to know more about this project.</h5>
 
