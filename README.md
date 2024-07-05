@@ -30,8 +30,6 @@ The docs may also be run locally.
 
 <h3>BUGS AND FEATURE REQUESTS</h3>
 
-Have a bug or a feature request? Please open an issue at github.com/AyswaryaS95
-
 <h3>CREATOR</h3>
 <li>Ayswarya</li> 
 
