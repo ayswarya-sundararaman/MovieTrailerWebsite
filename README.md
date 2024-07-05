@@ -34,7 +34,6 @@ Have a bug or a feature request? Please open an issue at github.com/AyswaryaS95
 
 <h3>CREATOR</h3>
 <li>Ayswarya</li> 
-<li>github.com/AyswaryaS95</li>
 
 <h5>NOTE: Please read the readme.txt file to know more about this project.</h5>
 
